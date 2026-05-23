@@ -1,4 +1,4 @@
-# Non Probabilistic Numerical Entropy
+# Non-Probabilistic Numerical Entropy
 
 I submitted Version V1 of my preprint(https://doi.org/10.20944/preprints202505.0270.v1) in May 2025. This version already established the mathematical structure of multiplicative entropy and its proof of monotonic increase (the mathematical core of the proof is essentially the mean inequality). The definition and constraints of this non‑statistical entropy were clearly specified: topologically invariant network, constant number of lattice points, gradient‑driven flow from higher to lower values, conservation of the total sum of numerical values on the lattice points (corresponding to energy conservation), monotonic increase of the product of numerical values (or, equivalently, monotonic increase of the sum of their logarithms after logarithmic transformation). Section 3 of V1 already made clear that this multiplicative entropy can be reduced to an additive form via logarithmic transformation.
 
